@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>gioxoay</Authors>
+    <Company>gioxoay</Company>
+    <Description>RoboUI Extension for ASP.NET MVC Core</Description>
+    <RepositoryUrl>https://github.com/gioxoay/RoboUI</RepositoryUrl>
+    <PackageTags>aspnet mvc core</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

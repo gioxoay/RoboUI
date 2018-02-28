@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace RoboUI.Extensions
 {
-    public static class ObjectExtensions
+    internal static class ObjectExtensions
     {
         public static T Clone<T>(this T item) where T : class
         {
